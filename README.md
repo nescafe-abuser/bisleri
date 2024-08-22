@@ -1,5 +1,12 @@
 # BroHowDoI
 
+# Build Instructions
+Run `curl --proto '=https' --tlsv1.2 -sSf https://sh.rustup.rs | sh` on your **Linux** terminal. This should install the Rust toolchain on your system.
+Then run `git clone https://github.com/nescafe-abuser/bisleri.git --depth 1 ~/BroHowDoI && cd BroHowDoI && cargo build`. This will build the binary.
+To run the server and serve the website at localhost, run `cargo run`. After the prompt says that the server is online, point your browser to http://127.0.0.1:8000. You should see the website there.
+If it says port blocked, check your firewall and unblock the port.
+
+# Overview
 **Instructors** create pages where they can:
 1. Detail their course
 2. Provide an interactive roadmap
