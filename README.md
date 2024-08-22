@@ -41,5 +41,5 @@ To reward instructors, milestones will be put in place.
 # Lead Developers
 
 **Maharshi Mukherjee**[23053682@kiit.ac.in]
-**Suhani**
+**Suhani Kothari**[22051290@kiit.ac.in]
 **Anik**
