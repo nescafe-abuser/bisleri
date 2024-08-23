@@ -38,7 +38,7 @@ To reward instructors, milestones will be put in place.
 
 ## Expected Features
 
-1. [ ] Web server in Rust
+1. [x] Web server in Rust
 2. [ ] Rating system for pages
 3. [ ] Sign in, sign up for instructors and learners
 4. [ ] Basic dashboard for instructors
